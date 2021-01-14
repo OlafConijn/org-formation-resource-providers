@@ -73,7 +73,6 @@
     "primaryIdentifier": [
         "/properties/ResourceId"
     ],
-
     "handlers": {
         "create": {
             "permissions": [
